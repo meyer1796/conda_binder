@@ -5,15 +5,16 @@ channels:
   - defaults
 dependencies:
   - python=3.9
+  - pip=20.0
   - r-base=4.0
   - plotly
   - pandas
   - matplotlib
-  - scikitlearn
+  - scikit-learn
   - numpy
-  - r-dpylyr
+  - r-tidyverse
+  - r-dplyr
   - r-ggplot2 
   - r-reshape2
-  - r-tidyverse
   - r-plotly 
   - r-stringr
